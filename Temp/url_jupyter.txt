@@ -1,0 +1,158 @@
+
+
+------------------------------
+dom nov 21 17:18:20 America 2021
+[I 17:18:21.064 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 17:18:21.389 NotebookApp] Serving notebooks from local directory: /etc/init.d
+[I 17:18:21.389 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 17:18:21.389 NotebookApp] http://34661bfd4da3:4000/?token=445e08097785796a732308239da31c18858e3ffcc150f59b
+[I 17:18:21.389 NotebookApp]  or http://127.0.0.1:4000/?token=445e08097785796a732308239da31c18858e3ffcc150f59b
+[I 17:18:21.389 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:18:21.395 NotebookApp] No web browser found: could not locate runnable browser.
+[C 17:18:21.395 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-37-open.html
+    Or copy and paste one of these URLs:
+        http://34661bfd4da3:4000/?token=445e08097785796a732308239da31c18858e3ffcc150f59b
+     or http://127.0.0.1:4000/?token=445e08097785796a732308239da31c18858e3ffcc150f59b
+
+
+------------------------------
+dom nov 21 19:51:20 America 2021
+[I 19:51:21.300 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 19:51:21.606 NotebookApp] Serving notebooks from local directory: /root/workspace/projeto
+[I 19:51:21.607 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 19:51:21.607 NotebookApp] http://cf08da1102ac:4000/?token=1c3d4b9290aadbe765b7b07d538fb9153d874eca82830497
+[I 19:51:21.607 NotebookApp]  or http://127.0.0.1:4000/?token=1c3d4b9290aadbe765b7b07d538fb9153d874eca82830497
+[I 19:51:21.607 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:51:21.612 NotebookApp] No web browser found: could not locate runnable browser.
+[C 19:51:21.612 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-22-open.html
+    Or copy and paste one of these URLs:
+        http://cf08da1102ac:4000/?token=1c3d4b9290aadbe765b7b07d538fb9153d874eca82830497
+     or http://127.0.0.1:4000/?token=1c3d4b9290aadbe765b7b07d538fb9153d874eca82830497
+[I 19:52:41.260 NotebookApp] 302 GET /?token=1c3d4b9290aadbe765b7b07d538fb9153d874eca82830497 (172.27.0.1) 0.820000ms
+[I 19:52:51.538 NotebookApp] Creating new directory in 
+[I 19:53:28.944 NotebookApp] Creating new notebook in /Leaning_Machine_001
+[I 19:53:28.958 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 19:53:30.809 NotebookApp] Kernel started: 0df2f5c2-0d3c-45c2-90d5-5ed8ba334fd6, name: python3
+[I 19:53:53.290 NotebookApp] Saving file at /Leaning_Machine_001/Untitled.ipynb
+[W 19:54:58.622 NotebookApp] Notebook Leaning_Machine_001/ola_mundo_1.ipynb is not trusted
+[I 19:55:25.677 NotebookApp] Saving file at /Leaning_Machine_001/ola_mundo_1.ipynb
+[I 19:55:27.620 NotebookApp] Starting buffering for 0df2f5c2-0d3c-45c2-90d5-5ed8ba334fd6:611c765339484281870b07c0fa541f08
+
+
+------------------------------
+dom nov 28 22:50:47 America 2021
+[I 22:50:48.204 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 22:50:48.500 NotebookApp] Serving notebooks from local directory: /root/workspace/projeto
+[I 22:50:48.500 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 22:50:48.500 NotebookApp] http://f6474fc983d9:4000/?token=2bc4f00540f7c7aea1a08175f3d936a97ffb448b382bbb93
+[I 22:50:48.500 NotebookApp]  or http://127.0.0.1:4000/?token=2bc4f00540f7c7aea1a08175f3d936a97ffb448b382bbb93
+[I 22:50:48.500 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:50:48.506 NotebookApp] No web browser found: could not locate runnable browser.
+[C 22:50:48.506 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-22-open.html
+    Or copy and paste one of these URLs:
+        http://f6474fc983d9:4000/?token=2bc4f00540f7c7aea1a08175f3d936a97ffb448b382bbb93
+     or http://127.0.0.1:4000/?token=2bc4f00540f7c7aea1a08175f3d936a97ffb448b382bbb93
+[I 22:52:25.346 NotebookApp] 302 GET /?token=2bc4f00540f7c7aea1a08175f3d936a97ffb448b382bbb93 (172.21.0.1) 1.060000ms
+[I 22:53:24.077 NotebookApp] Creating new directory in /Leaning_Machine_001
+[I 23:15:19.690 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo.zip
+[I 23:16:02.596 NotebookApp] Creating new directory in /Leaning_Machine_001/reconhecimento_facial
+[I 23:16:24.870 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/biden.jpg
+[I 23:16:25.906 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/obama.jpg
+[I 23:16:26.734 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/two_people.jpg
+[I 23:16:27.262 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/Dockerfile
+[I 23:16:27.857 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/init.ipynb
+[I 23:16:27.878 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 23:16:28.610 NotebookApp] Uploading file to /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb
+[W 23:16:28.611 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[W 23:16:47.476 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/init.ipynb is not trusted
+[I 23:16:47.956 NotebookApp] Kernel started: a636b856-fb17-4576-8d39-af327b0aec64, name: python3
+[I 23:16:57.414 NotebookApp] Starting buffering for a636b856-fb17-4576-8d39-af327b0aec64:0407ccd2b1a04bd186b092186ac6a214
+[W 23:17:05.921 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:17:06.720 NotebookApp] Kernel started: a19189a4-4eea-4f05-ac19-78d4c5209032, name: python3
+[I 23:19:07.668 NotebookApp] Saving file at /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb
+[W 23:19:07.668 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+
+
+------------------------------
+dom nov 28 23:32:12 America 2021
+[I 23:32:13.167 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 23:32:13.471 NotebookApp] Serving notebooks from local directory: /root/workspace/projeto
+[I 23:32:13.471 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 23:32:13.471 NotebookApp] http://be0597e12d1c:4000/?token=40f90b35698a1c6d3d2cbd2a903986645d5e00e827dfdd05
+[I 23:32:13.471 NotebookApp]  or http://127.0.0.1:4000/?token=40f90b35698a1c6d3d2cbd2a903986645d5e00e827dfdd05
+[I 23:32:13.471 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:32:13.477 NotebookApp] No web browser found: could not locate runnable browser.
+[C 23:32:13.478 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-22-open.html
+    Or copy and paste one of these URLs:
+        http://be0597e12d1c:4000/?token=40f90b35698a1c6d3d2cbd2a903986645d5e00e827dfdd05
+     or http://127.0.0.1:4000/?token=40f90b35698a1c6d3d2cbd2a903986645d5e00e827dfdd05
+[W 23:32:35.635 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:32:35.639 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:32:35.640 NotebookApp] Forbidden
+[W 23:32:35.641 NotebookApp] 403 GET /api/sessions?_=1638141300826 (172.22.0.1) 6.920000ms referer=http://127.0.0.1:4000/tree/Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo
+[W 23:32:35.643 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[I 23:32:35.644 NotebookApp] 302 GET /tree/Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo (172.22.0.1) 6.240000ms
+[W 23:32:35.647 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:32:35.648 NotebookApp] Forbidden
+[W 23:32:35.648 NotebookApp] 403 GET /api/terminals?_=1638141300827 (172.22.0.1) 2.080000ms referer=http://127.0.0.1:4000/tree/Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo
+[I 23:32:38.461 NotebookApp] 302 GET /?token=40f90b35698a1c6d3d2cbd2a903986645d5e00e827dfdd05 (172.22.0.1) 0.650000ms
+[I 23:32:49.474 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 23:32:49.479 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:32:50.315 NotebookApp] Kernel started: c5aed523-881a-442d-86fe-4765949f8802, name: python3
+[I 23:34:50.327 NotebookApp] Saving file at /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb
+[W 23:34:50.328 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[W 23:37:37.074 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:39:21.130 NotebookApp] Kernel interrupted: c5aed523-881a-442d-86fe-4765949f8802
+[I 23:39:38.645 NotebookApp] Saving file at /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb
+[W 23:39:38.645 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[W 23:41:39.536 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:41:49.859 NotebookApp] Kernel interrupted: c5aed523-881a-442d-86fe-4765949f8802
+[I 23:42:21.689 NotebookApp] Starting buffering for c5aed523-881a-442d-86fe-4765949f8802:42012903336d4bb589e7e13077db4981
+[W 23:42:25.677 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:44:26.323 NotebookApp] Saving file at /Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb
+[W 23:44:26.323 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+
+
+------------------------------
+dom nov 28 23:47:24 America 2021
+[I 23:47:25.434 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 23:47:25.725 NotebookApp] Serving notebooks from local directory: /root/workspace/projeto
+[I 23:47:25.725 NotebookApp] Jupyter Notebook 6.4.6 is running at:
+[I 23:47:25.725 NotebookApp] http://2d6c9ceab575:4000/?token=4a2538a1c43acd00cc75345ea76a40b3bb9bf7247cbc4a83
+[I 23:47:25.725 NotebookApp]  or http://127.0.0.1:4000/?token=4a2538a1c43acd00cc75345ea76a40b3bb9bf7247cbc4a83
+[I 23:47:25.725 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:47:25.731 NotebookApp] No web browser found: could not locate runnable browser.
+[C 23:47:25.731 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-22-open.html
+    Or copy and paste one of these URLs:
+        http://2d6c9ceab575:4000/?token=4a2538a1c43acd00cc75345ea76a40b3bb9bf7247cbc4a83
+     or http://127.0.0.1:4000/?token=4a2538a1c43acd00cc75345ea76a40b3bb9bf7247cbc4a83
+[W 23:47:37.701 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:47:37.702 NotebookApp] Couldn't authenticate WebSocket connection
+[W 23:47:37.703 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:47:37.704 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:47:37.741 NotebookApp] 403 GET /api/kernels/c5aed523-881a-442d-86fe-4765949f8802/channels?session_id=a49203e9658c4566904a0afba76a671c (172.23.0.1) 42.990000ms referer=None
+[W 23:48:09.765 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:48:09.765 NotebookApp] Couldn't authenticate WebSocket connection
+[W 23:48:09.765 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:48:09.766 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-4000
+[W 23:48:09.770 NotebookApp] 403 GET /api/kernels/c5aed523-881a-442d-86fe-4765949f8802/channels?session_id=a49203e9658c4566904a0afba76a671c (172.23.0.1) 7.240000ms referer=None
+[I 23:48:27.718 NotebookApp] 302 GET /?token=4a2538a1c43acd00cc75345ea76a40b3bb9bf7247cbc4a83 (172.23.0.1) 0.670000ms
+[I 23:48:36.845 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 23:48:36.848 NotebookApp] Notebook Leaning_Machine_001/reconhecimento_facial/Face-Recognition-Demo/example.ipynb is not trusted
+[I 23:48:37.609 NotebookApp] Kernel started: ef577146-33b7-4264-8f40-5e538baf0768, name: python3
+[I 23:49:08.189 NotebookApp] Kernel interrupted: ef577146-33b7-4264-8f40-5e538baf0768

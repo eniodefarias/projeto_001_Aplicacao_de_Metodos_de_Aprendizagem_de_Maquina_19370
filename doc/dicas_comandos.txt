@@ -1,0 +1,31 @@
+iniciar repositorio:
+git init
+git remote add origin https://github.com/eniodefarias/projeto_001_Aplicacao_de_Metodos_de_Aprendizagem_de_Maquina_19370.git
+
+
+baixar dados
+date ; time git pull -f origin master ; date
+
+
+subir dados(obs, no github a senha é o token)
+git add . ; git add * ; gc -m "$(date) novo repo " ; git push -f origin master
+
+
+
+
+
+
+
+################################
+
+https://www.udemy.com/course/jupyter-x-docker/learn/lecture/21187450#overview
+
+https://medium.com/data-hackers/ambiente-de-desenvolvimento-com-docker-e-jupyter-notebook-7605e9140f72
+
+
+
+#####
+
+
+
+sudo docker create -t -i --name python-dev -p 4000:4000 -v /home/usuario/workspace:/home/user desenvolvimento:python

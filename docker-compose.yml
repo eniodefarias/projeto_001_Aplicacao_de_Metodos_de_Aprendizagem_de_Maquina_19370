@@ -1,0 +1,42 @@
+version: '2.2'
+services:
+  baseimg:
+#    image: eniodefarias/baseimage:bionic-1.0.0
+#    image: eniodefarias/baseimage:focal-1.0.0
+    #image: ubuntu:20.04
+    image: eniodefarias/ubuntu:18.04
+#    image: eniodefarias/ubuntu:20.04
+    ports:
+      - "4000:4000"
+    environment:
+      - "TZ=America/Sao_Paulo"
+
+    
+    #dica limite memória RAM: https://docker-unleashed.readthedocs.io/aula4.html
+    #https://docs.docker.com/compose/compose-file/compose-file-v2/
+
+    mem_limit: 824mb
+
+    mem_reservation: 524mb
+    cpu_count: 1
+    cpu_percent: 40
+    cpus: 1
+
+    volumes:      
+      - ./workspace/:/root/workspace
+      - ./Temp/:/var/Temp
+#      - ./src/:/home/src
+#      - ./.pyenv/:/root/.pyenv/
+
+#      - ./src/:/home/root/
+
+#      - ./root/:/root/
+#      - ./src/:/home/root/projeto/
+
+#    privileged: true
+#    privileged: false
+
+    cap_add:
+      - SYS_ADMIN
+      - DAC_READ_SEARCH
+
